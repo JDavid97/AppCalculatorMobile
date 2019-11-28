@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="BotonMS">MS</string>
+    <string name="BotonMR">MR</string>
+    <string name="BotonMC">MC</string>
+    <string name="BotonPotencia">x^y</string>
+    <string name="BotonSiguiente">Verificar</string>
+    <string name="BotonAnterior">Atras</string>
+    <string name="tv2">Segundo Activity</string>
+</resources>
